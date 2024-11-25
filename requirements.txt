@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 streamlit
 PyPDF2
 google.generativeai
+=======
+streamlit
+PyPDF2
+google.generativeai
+>>>>>>> 457c1917af8de45910728dadc360ecc80eee8ecf
 python-dotenv
